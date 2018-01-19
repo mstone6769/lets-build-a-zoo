@@ -1,6 +1,8 @@
 # lets-build-a-zoo
 Tutorial on using the Angular CLI to build a Zoo App
 
+[http://github.com/mstone6769/zoo](http://github.com/mstone6769/zoo)
+
 
 `ng new zoo`
 
