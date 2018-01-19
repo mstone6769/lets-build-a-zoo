@@ -1,7 +1,11 @@
 # lets-build-a-zoo
 Tutorial on using the Angular CLI to build a Zoo App
 
+See the output here:
 [http://github.com/mstone6769/zoo](http://github.com/mstone6769/zoo)
+
+See the built out app:
+[https://kind-meninsky-a31df8.netlify.com/](https://kind-meninsky-a31df8.netlify.com/)
 
 
 `ng new zoo`
